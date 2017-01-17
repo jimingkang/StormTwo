@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/cloudy/spout/OrderBaseSpout.java=UTF-8
+encoding//src/com/ibf/base/spout/SourceSpout.java=UTF-8
+encoding//src/kafka/examples/Consumer.java=UTF-8
